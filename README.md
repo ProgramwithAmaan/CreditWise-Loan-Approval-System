@@ -29,4 +29,3 @@ CreditWise is a machine learning mini-project developed using JupyterLab to pred
 4. Run the notebook cells in order.
 
 
-This project is for educational purposes only. Predictions are not financial advice and should not be used as the sole basis for real loan decisions.
